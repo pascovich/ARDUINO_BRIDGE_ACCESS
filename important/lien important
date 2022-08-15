@@ -1,0 +1,11 @@
+// ceci est le lien qui nous a servi de recherche pour le step motor->NodemCU
+https://www.raspberryme.com/moteur-pas-a-pas-esp8266-nodemcu-pilote-28byj-48-et-uln2003/
+
+// ceci est le lien qui nous a servi de recherche pour le capteur ultra son->NodemCU
+https://www.raspberryme.com/capteur-a-ultrasons-esp8266-nodemcu-hc-sr04-avec-arduino-ide/
+
+// ceci est le lien qui nous a servi de la connexion de l'auduino a L'API->NodemCU
+https://randomnerdtutorials.com/esp8266-nodemcu-http-get-post-arduino/
+
+// ceci est le lien qui nous a servi de recherche pour le capteur de poid->NodemCU
+https://randomnerdtutorials.com/esp8266-load-cell-hx711/
