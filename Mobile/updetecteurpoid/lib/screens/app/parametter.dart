@@ -27,9 +27,10 @@ class _SettingState extends State<Setting> {
     if (_weight!.text.isNotEmpty) {
       _bloc!.add(
         SetParameter(
-            weight: double.parse(
-          _weight!.text.trim(),
-        )),
+          weight: double.parse(
+            _weight!.text.trim(),
+          ),
+        ),
       );
     }
   }
